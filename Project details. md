@@ -1,0 +1,40 @@
+Hospital Appointment Booking System – Project Details
+Project Title
+Hospital Appointment Booking System
+Project Domain
+Web Application Development
+Project Abstract
+The Hospital Appointment Booking System is a web-based application developed to simplify the appointment scheduling process between patients and doctors. The system allows patients to register, log in, view doctor details, and book appointments online. Administrators can manage doctors, patients, and appointment requests through an admin dashboard.
+This project reduces manual work, minimizes patient waiting time, and improves the efficiency of hospital appointment management. The system stores all information securely in a database and provides easy access to appointment records.
+Problem Statement
+In many hospitals, appointment booking is still managed manually, which can lead to long waiting times, scheduling conflicts, and inefficient record management. Patients often need to visit the hospital or make phone calls to book appointments.
+The Hospital Appointment Booking System solves these problems by providing an online platform for appointment scheduling and management.
+Objectives
+Provide online appointment booking.
+Reduce patient waiting time.
+Manage doctor schedules efficiently.
+Maintain patient records securely.
+Improve hospital administration and service quality.
+Frontend Technologies
+HTML
+CSS
+JavaScript
+Frontend Modules
+Home Page
+Patient Registration
+Patient Login
+Doctor List
+Appointment Booking Page
+Appointment Status Page
+Backend Technologies
+PHP
+Backend Modules
+User Authentication
+Appointment Processing
+Doctor Management
+Patient Management
+Admin Dashboard
+Database
+MySQL
+Tables
+Patients
