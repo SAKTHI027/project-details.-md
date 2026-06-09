@@ -1,0 +1,45 @@
+# Use Case Diagram - Hospital Appointment Booking System
+
+```text
+                    +-------------------+
+                    |       ADMIN       |
+                    +-------------------+
+                              |
+         --------------------------------------------
+         |                 |               |         |
+         v                 v               v         v
+    Add Doctor      Manage Doctors   View Patients  Approve/Reject
+                                                 Appointments
+
+                    +-------------------+
+                    |      PATIENT      |
+                    +-------------------+
+                              |
+        ------------------------------------------------
+        |              |            |         |        |
+        v              v            v         v        v
+     Register       Login     View Doctors  Book   View Status
+                                             Appointment
+
+                     PATIENT
+                        |
+                        v
+                  APPOINTMENT
+                        ^
+                        |
+                     DOCTOR
+```
+
+Actors:
+1. Patient
+   - Register
+   - Login
+   - View Doctors
+   - Book Appointment
+   - View Appointment Status
+
+2. Admin
+   - Add Doctor
+   - Manage Doctors
+   - View Patients
+   - Approve/Reject Appointments
